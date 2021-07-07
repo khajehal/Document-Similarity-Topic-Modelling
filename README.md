@@ -1,4 +1,5 @@
 # Document-Similarity-and-Topic-Modelling
+
 1.1  Part 1 - Document Similarity
 For the first part of this work, I will complete the functions doc_to_synsets and similarity_score which will be used by document_path_similarity to find the path similarity between two documents.
 
